@@ -1,6 +1,6 @@
 # ETEC - Projeto página petshop 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
   <div>
     <img src="https://st3.depositphotos.com/5482604/12908/i/950/depositphotos_129088438-stock-photo-cat-in-towel-with-sponge.jpg" alt="imgeditada" width="300"> 
