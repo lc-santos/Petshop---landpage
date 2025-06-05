@@ -10,7 +10,7 @@
     <h3>Objetivo:</h3> 
     <ul>
       <li>Com HTML e CSS construir uma página fictícia de petshop</li>
-      <li>Postar o projeto através de comandos Git</li>
+      <li>Commitar o projeto através de comandos Git</li>
       <li>Recriar design com Figma</li>
       <li>Linkar site GitHub do projeto</li>
     </ul>
